@@ -37,10 +37,10 @@ I strive to understand technology from a systems perspective:
 *   **Full-Stack:** Pursuing end-to-end performance optimization, from database query efficiency to frontend frame rate monitoring.
 
 ## 📊 GitHub Dashboard
-<div align="center">
+<!-- <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaikai20040827&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&custom_title=Kaikai's+GitHub+Stats" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaikai20040827&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&exclude_repo=github-profile-english" alt="Top Langs" />
-</div>
+</div> -->
 <div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaikai20040827&theme=dark&hide_border=true&background=00000000&stroke=30363D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
