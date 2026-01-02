@@ -44,6 +44,6 @@ I strive to understand technology from a systems perspective:
 <div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaikai20040827&theme=dark&hide_border=true&background=00000000&stroke=30363D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-  <img src="https://github.com/Kaikai20040827/Kaikai20040827/snake.svg" alt="Contribution Snake" width="100%"/>
+  <img src="https://github.com/Kaikai20040827/Kaikai20040827/blob/main/snake.svg" alt="Contribution Snake" width="100%"/>
 </div>
 
