@@ -42,9 +42,8 @@ I strive to understand technology from a systems perspective:
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaikai20040827&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&exclude_repo=github-profile-english" alt="Top Langs" />
 </div>
 <div align="center">
-  <!-- Contribution Streak -->
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaikai20040827&theme=dark&hide_border=true&background=00000000&stroke=30363D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-  <!-- Snake Animation (Uncomment after setup) -->
-  <!-- <img src="https://raw.githubusercontent.com/Kaikai20040827/Kaikai20040827/snake.svg" alt="Contribution Snake" width="100%"/> -->
+  <img src="https://raw.githubusercontent.com/Kaikai20040827/Kaikai20040827/snake.svg" alt="Contribution Snake" width="100%"/>
 </div>
 
